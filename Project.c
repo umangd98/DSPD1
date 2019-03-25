@@ -37,7 +37,7 @@ char *productcat[] = {
 	"Electronic Gadgets",
 	"Gaming Consoles", 
 	"Home Appliances"
-};
+};	//array of product names
 
 char *customerpay[] = {
 	"Buy Now Pay Later",
