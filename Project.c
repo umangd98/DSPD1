@@ -27,8 +27,8 @@ typedef struct Customer
 
 }cNode;
 
-pNode *product=NULL;
-cNode *customer=NULL;
+pNode *product=NULL; //Linked list of products
+cNode *customer=NULL;	// linked list of customers
 
 char *productcat[] = {
 	"Mobile Phones",
